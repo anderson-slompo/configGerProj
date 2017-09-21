@@ -15,4 +15,8 @@ Seguem as instruções para instalação do projeto ProMind, relembnrando que o 
 13) Ajustar as permissoes dessa pasta para 0755 e propriedade da pasta para o usuario www-data
 14) Instalar o memcached
 15) Iniciar o serviço do memcached
-
+16) Instalar o PostgreSQL 9.3
+17) Iniciar o serviço do postgreSQL
+18) Ajustar a linha 10 do arquivo /var/www/html/wsGerProj/config/config.php para a senha configurada no banco de dados
+19) Criar uma base de dados chamada promind
+20) Executar os scripts contidos em fontes/wsProMind/sql/schema.sql
