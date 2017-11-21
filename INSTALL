@@ -19,4 +19,4 @@ Seguem as instruções para instalação do projeto ProMind, relembnrando que o 
 17) Iniciar o serviço do postgreSQL
 18) Ajustar a linha 10 do arquivo /var/www/html/wsGerProj/config/config.php para a senha configurada no banco de dados
 19) Criar uma base de dados chamada promind
-20) Executar os scripts contidos em fontes/wsProMind/sql/schema.sql
+20) Executar os scripts contidos em fontes/wsProMind/sql/full.sql
